@@ -5,3 +5,6 @@ __pycache__
 env
 .env
 *.db
+test1.html
+htmlcov/
+.coverage
